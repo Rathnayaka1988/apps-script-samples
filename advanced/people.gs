@@ -95,7 +95,7 @@ function getContactGroup(name) {
   }
 }
 
-// [END people_get_group]
+// [END people_get_group]  
 
 // [START people_get_contact_by_email]
 
